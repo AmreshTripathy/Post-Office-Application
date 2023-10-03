@@ -65,7 +65,7 @@ body {
 .section-2>div {
     color: #B8BCCC;
     font-family: 'Inter';
-    font-size: 36px;
+    font-size: 32px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -75,14 +75,14 @@ body {
 }
 
 button {
-    width: 345px;
-    height: 67px;
+    width: 20vw;
+    height: 8vh;
     flex-shrink: 0;
     border-radius: 10px;
     border: 2px solid #B8BCCC;
     color: #B8BCCC;
     font-family: 'Inter';
-    font-size: 28px;
+    font-size: 24px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
